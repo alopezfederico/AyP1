@@ -10,7 +10,7 @@ El write muestra mensajes en pantalla (cuando decimos en pantalla es en la termi
 
 En este programa podes ver un poco como funcionan
 
-[Write & Read (con Ln y sin Ln)](Write&Read.pas)
+[Write & Read (con Ln y sin Ln)](Programas/Write&Read.pas)
 
 ____
 
@@ -33,15 +33,15 @@ Cada tipo especifico va a tener sus operadores posibles.
 
 
 
-[Comprendiendo ENTEROS](Enteros.pas)
+[Comprendiendo ENTEROS](Programas/Enteros.pas)
 
-[Comprendiendo REALES](Reales.pas)
+[Comprendiendo REALES](Programas/Reales.pas)
 
-[Comprendiendo BOOLEANS](Booleans.pas)
+[Comprendiendo BOOLEANS](Programas/Booleans.pas)
 
-[Comprendiendo STRINGS](Strings.pas)
+[Comprendiendo STRINGS](Programas/Strings.pas)
 
-[Comprendiendo CHAR](Char.pas) 
+[Comprendiendo CHAR](Programas/Char.pas) 
 
 ---
 
@@ -79,11 +79,11 @@ Cuando hablamos de estos datos que "devuelven" hablamos de que cuando nosotros t
 
 Estos parámetros son formas de comunicarnos entre el programa principal dentro de pascal, con los modulos que nosotros vayamos creando.
 
-[Ejemplo FUNCION](Ej_funcion.pas)
+[Ejemplo FUNCION](Programas/Ej_funcion.pas)
 
-[Ejemplo PROCEDURE](Ej_procedure.pas)
+[Ejemplo PROCEDURE](Programas/Ej_procedure.pas)
 
-[Comprendiendo comunicacion de los programas](Comunicaciones_en_programa.pas)
+[Comprendiendo comunicacion de los programas](Programas/Comunicaciones_en_programa.pas)
 
 
 ## **Tipos de datos compuestos**
