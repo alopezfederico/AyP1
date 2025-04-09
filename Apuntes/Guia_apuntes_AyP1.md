@@ -86,18 +86,19 @@ Estos parámetros son formas de comunicarnos entre el programa principal dentro 
 [Comprendiendo comunicacion de los programas](Comunicaciones_en_programa.pas)
 
 
-### **Tipos de datos complejos**
+## **Tipos de datos compuestos**
 
 Acá nos encontramos con formas de almacenar estos datos un poco mas complejos, donde no se trata unicamente de una
 caja sino de una estructura la cual va a organizar estas cajas.
 
 Cada una de estas estructuras va a tener sus caracteristicas, pros y contras.
 
-#### **REGISTRO**
+### **REGISTRO**
 
 El registro es una forma de organizar informacion de manera que bajo el nombre que nosotros le asignemos, podremos acceder a los campos que este registro va a contener almacenando los respectivos datos a almacenar.
 
-No es mas complejo que entender que si tenemos que ingresar informacion de una persona, donde de cada persona
-se conoce DNI, nombre, apellido, nombre y edad; se puede organizar la informacion en un registro.
+No es mas complejo que entender que por ejemplo si tenemos que ingresar informacion de una persona, donde de cada persona se conoce DNI, nombre, apellido y edad; se puede organizar la informacion en un registro.
 
+[Entendiendo REGISTROS](registros.pas)
 
+---
