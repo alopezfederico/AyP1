@@ -81,6 +81,7 @@ Estos parámetros son formas de comunicarnos entre el programa principal dentro 
 
 [Ejemplo FUNCION](Ej_funcion.pas)
 
+[Ejemplo PROCEDURE](Ej_procedure.pas)
 
 [Comprendiendo comunicacion de los programas](Comunicaciones_en_programa.pas)
 
