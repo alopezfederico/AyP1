@@ -92,5 +92,9 @@ var
     V:Vector_enteros;
 begin
     // Se dispone vector
+
+    {
+    Falta resolver
+    }
     
 end.
