@@ -1,0 +1,9 @@
+#Ignoro todo
+*
+
+#Designoro archivos que no tengan extension
+!*.*
+!LICENCE
+
+*.o
+*.ppu
